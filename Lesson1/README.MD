@@ -54,4 +54,4 @@ Start notebook server in powershell:
 
 ### [Interactive Terminal](https://docs.python.org/3/tutorial/interpreter.html) 
 
-Simply type `python` into powershell to activate the Interactive Mode, and quit() when you are done
+Simply type `python` into powershell to activate the Interactive Mode, and `quit()` when you are done.

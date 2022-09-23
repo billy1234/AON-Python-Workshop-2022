@@ -39,18 +39,18 @@ Create a text file with a .py ending. Then call via comand line (This workshop w
 
 Run a scipt in powershell:
 
-        `python script_name.py`
+        python script_name.py
 ### [Notebooks](https://jupyter.org/) 
 
 A Web-based interactive development environment for notebooks. Great for prototyping and Data-Science.
 
 Install classic notebooks:
 
-        `pip install notebook`
+        pip install notebook
 
 Start notebook server in powershell:
 
-        `jupyter notebook`
+        python -m notebook
 
 ### [Interactive Terminal](https://docs.python.org/3/tutorial/interpreter.html) 
 

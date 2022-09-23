@@ -14,6 +14,6 @@ The easiety way to install Python on Windows is to first install [Chocolatey](ht
 
 Once Chocolatey is installed simply type:
 
-        `choco install python` 
+        choco install python 
         
 Into powershell (_make sure you restart your Powershell after installing Chocolatey_).

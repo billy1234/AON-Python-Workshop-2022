@@ -15,9 +15,9 @@ It is also one of the most popular programming languages.
 
 ## Why use Python?
  
-Verry Quick to develop code.
+Verry quick to develop code.
 
-Access to a huge list of Open source **Libaries**
+Access to a huge list of OpenSource **Libaries**
 
 ----
 
@@ -25,7 +25,7 @@ Access to a huge list of Open source **Libaries**
 
 PIP stands for Package Installer for Python.
 
-It will manage installing code from [PyPi](https://pypi.org/) a huge Open-Source repository of code that you can easily reuse in your python code.
+It manages installing libaries from [PyPi](https://pypi.org/) a huge Open-Source repository of code that you download and incorporate into your code.
 
 ----
 

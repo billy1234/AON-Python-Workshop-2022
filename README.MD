@@ -1,4 +1,4 @@
-# PYTHON WORKSHOP
+# Python Workshop
 This project is a set of lessons for AONs 2022 Python Workshop.
 All code examples are here.
 

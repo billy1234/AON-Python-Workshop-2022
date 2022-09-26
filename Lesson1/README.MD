@@ -55,3 +55,13 @@ Start notebook server in powershell:
 ### [Interactive Terminal](https://docs.python.org/3/tutorial/interpreter.html) 
 
 Simply type `python` into powershell to activate the Interactive Mode, and `quit()` when you are done.
+
+## Where to learn more about Python?
+
+The internet is full of resources about python. But not all are created equal.
+The best place to go to learn about python is the offical documenation. Another good online resource is W3Schools.
+
+
+[Python 3 Documenation](https://docs.python.org/3/)
+
+[W3schools](https://www.w3schools.com/)

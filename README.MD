@@ -8,7 +8,7 @@ This project is intended to be run on Windows machines. However nothing here is 
 
 * [PowerShell](https://en.wikipedia.org/wiki/PowerShell) (One of the inbult windows terminals, No installation needed)
 * [Python3](https://www.python.org/downloads/) (All code will be written in Python3)
-* [VS Code](https://code.visualstudio.com/) (A Free Opensource IDE for developing python code)
+* [VS Code](https://code.visualstudio.com/) (A Free Opensource IDE)
 
 The easiety way to install Python on Windows is to first install [Chocolatey](https://chocolatey.org/) Then use it to install Python.
 

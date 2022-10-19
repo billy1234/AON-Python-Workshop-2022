@@ -24,16 +24,16 @@ When you declare a variable you can actually specify the type of the vairable. T
 [Set Theory](https://en.wikipedia.org/wiki/Set_theory) is a field of math that deals with "Collections of objects". This models many concepts within computer science.
 
 
-One verry important concept is some of the "Sets" of numbers. pulled from [Eastern Illinois Universitys'](https://castle.eiu.edu/~mathcs/mat2120/index/set03-2x3.pdf) website:
+One verry important concept is some of the "Sets" of numbers. pulled from a slide deck from [Eastern Illinois Universitys'](https://castle.eiu.edu/~mathcs/mat2120/index/set03-2x3.pdf) website:
 
 
-        ℕ — Natural or Counting numbers: {1, 2, 3, . . . }
+        ℕ — Natural or Counting numbers: {1, 2, 3, ... }
 
-        W — Whole Numbers: {0, 1, 2, 3, . . . }
+        W — Whole Numbers: {0, 1, 2, 3, ... }
 
-        𝕀 — Integers: {. . . , -3, -2, -1, 0, 1, 2, 3, . . . }
+        𝕀 — Integers: {... , -3, -2, -1, 0, 1, 2, 3, ... }
 
-        ℚ — Rational numbers: {p q | p, q ∈ I, q 6= 0 }
+        ℚ — Rational numbers: {p/q | p , q ∈ 𝕀, q ≠ 0 }
 
         ℝ — Real Numbers: { x | x is a number that can be written
         as a decimal }

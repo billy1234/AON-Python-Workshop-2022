@@ -19,7 +19,7 @@ Remeber its best practice to ensure all elements of a collection are the same ty
 Tables are a special kind of collection, they can be though of like lists.
 
 However unlike the basic collections above they are 2 dimensional. Meaning they require
-2 indexes to pull out a primative value.
+2 indexes to pull out an element.
 
 They can be thought of like a grid, with "Rows" and "Columns"
 

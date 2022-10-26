@@ -6,13 +6,15 @@ Typically we want to group lots of primitive datatypes together. To do this we u
 
 * [Lists](https://docs.python.org/3/tutorial/datastructures.html) - Ordered, starts from 0 - N 
 
-* [Tuples](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences) - Exactly like lists except that you cant modify them after creating them.
-
 * [Sets](https://docs.python.org/3/tutorial/datastructures.html#sets) - Unorderd, supports [Set operations](https://en.wikipedia.org/wiki/Set_(mathematics)#:~:text=Basic%20operations%5Bedit%5D).
 
 * [Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) - Unordered, Maps from any value to any value.
 
 Remeber its best practice to ensure all elements of a collection are the same type.
+
+Python also has something called tuples, these are almost identical to lists execpt that you cant change its size or its elements after you create them.
+
+* [Tuples](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences) - Exactly like lists except that you cant modify them after creating them.
 
 ## Tables
 

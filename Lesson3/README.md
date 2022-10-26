@@ -21,7 +21,7 @@ Python also has something called tuples, these are almost identical to lists exe
 Tables are a special kind of collection, they can be though of like lists.
 
 However unlike the basic collections above they are 2 dimensional. Meaning they require
-2 indexes to pull out a primative value.
+2 indexes to pull out an element.
 
 They can be thought of like a grid, with "Rows" and "Columns"
 
